@@ -21,3 +21,10 @@ você deverá ver a indicação da versão do Maven instalada e a versão do JDK
 
 ## Documentação
 [https://github.com/RodGof/com.Login/blob/main/README.md]
+
+## Análise estática
+Trata-se da análise do código sem que seja executado. Esta análise produz uma "noção de quão bom" está o código sob alguns aspecto e, em consequência, permite orientar eventuais ações de melhoria. A análise estática não significa: "agrada usuários". A análise estática observa o código como principal.
+
+Todas estas análises devem ser realizadas em todos os projetos? Não! Aquelas relevantes para um dado projeto deverão ser configuradas em conformidade com o contexto em questão.
+
+{EM ATUALIZAÇÃO}

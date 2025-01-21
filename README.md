@@ -35,7 +35,18 @@ O desenvolvimento de código em Java, em geral, usufrui de um significativo conj
 
 {EM ATUALIZAÇÃO}
 
-# Banco de Dados
+## Banco de Dados
 Nos cenários onde é feito uso de um banco relacional, aqui são oferecidos recursos para desenvolvimento usando o MYsql (https://www.mysql.com/).
+
+## Outros recursos
+MAVEN FOR JAVA
+
+## Integração contínua
+Todo o projeto está envolto de técnologias que sofrem constantes atualizações; visto isto, a continuidade de updates de tecnologias faz necessario.   Observe que isso se transforma em um significativo instrumento de visibilidade do projeto.
+
+## Agradecimentos
+Para projetos open source os serviços oferecidos são gratuitos. Seguem aqui os merecidos agradecimentos a:
+
+{EM ATUALIZAÇÃO}
 
 

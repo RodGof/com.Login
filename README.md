@@ -35,3 +35,7 @@ O desenvolvimento de código em Java, em geral, usufrui de um significativo conj
 
 {EM ATUALIZAÇÃO}
 
+# Banco de Dados
+Nos cenários onde é feito uso de um banco relacional, aqui são oferecidos recursos para desenvolvimento usando o MYsql (https://www.mysql.com/).
+
+

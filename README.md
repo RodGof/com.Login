@@ -10,3 +10,6 @@ Projeto que serve de referência para o desenvolvimento de software em Java.
 Há um conjunto relativamente extenso de ferramentas para avaliação do código do projeto, o que é um bom ponto de partida para implementação de DevOps.
 
 Para ilustrar o projeto inclui: É um projeto de apoio e start para outros projetos voltados ao escopo proposto.
+
+# Start project
+git clone [https://github.com/RodGof/com.Login]

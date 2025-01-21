@@ -18,3 +18,6 @@ git clone [https://github.com/RodGof/com.Login]
 Ter o Java instalado;
 Banco de dados instalado: mySQL
 você deverá ver a indicação da versão do Maven instalada e a versão do JDK.
+
+## Documentação
+[https://github.com/RodGof/com.Login/README.md]
